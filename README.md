@@ -1,67 +1,104 @@
-<h1 align="center">Hola 👋, Soy Eliot</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Eliot+Taguada;Desarrollador+Full+Stack;Especialista+en+Tecnolog%C3%ADas+Web;Innovaci%C3%B3n+%7C+Calidad+%7C+Eficiencia" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🚀 Desarrollador Full Stack | Perú 🇵🇪</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+Software;Apasionado+por+la+tecnología;Siempre+aprendiendo+y+creciendo;Desde+Perú&center=true&width=500&height=50">
-  </a>
+  <em>Transformando ideas en soluciones digitales innovadoras</em>
 </p>
-
-<h3 align="center">Desarrollador web peruano apasionado por la programación, el aprendizaje continuo y los proyectos innovadores.</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=EliotTtg&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="EliotTtg" /> 
-</p>
-
----
-
-## 🚀 Objetivo Profesional
-
-Mi objetivo es consolidarme como desarrollador full stack, participando en proyectos reales que me reten a aprender constantemente, mientras aporto con soluciones tecnológicas eficientes, seguras y escalables. Busco crecer profesionalmente, integrando tecnologías modernas y buenas prácticas de desarrollo.
-
----
-
-## 🌐 Conéctate conmigo:
 
 <div align="center">
-  <a href="mailto:cristophertaguada03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/EliotTtg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=EliotTtg&label=Visitas&color=2F81F7&style=flat-square)](https://github.com/EliotTtg)
+[![GitHub followers](https://img.shields.io/github/followers/EliotTtg?label=Seguidores&style=flat-square&color=2F81F7)](https://github.com/EliotTtg)
+[![GitHub stars](https://img.shields.io/github/stars/EliotTtg?label=Estrellas&style=flat-square&color=2F81F7)](https://github.com/EliotTtg)
+
 </div>
----
-
-## 🛠️ Habilidades Técnicas
-
-### 👉 Lenguajes de Programación
-<p align="left"> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white">
-</p>
-
-### 👉 Desarrollo Web
-<p align="left"> 
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
-  <img alt="FlutterFlow" src="https://img.shields.io/badge/FlutterFlow-02569B.svg?logo=flutter&logoColor=white">
-</p>
-
-### 👉 Bases de Datos y Herramientas
-<p align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
-</p>
 
 ---
 
-## 🔥 Estadísticas de GitHub
+## 👨‍💻 Sobre Mí
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=EliotTtg&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliotTtg&theme=react&layout=compact" />
-</p>
+Soy un **desarrollador full stack** apasionado por crear soluciones tecnológicas que generen impacto real. Con experiencia en desarrollo web moderno y una mentalidad orientada a resultados, me especializo en construir aplicaciones escalables, seguras y centradas en el usuario.
+
+### 🎯 **Enfoque Profesional**
+- **Calidad de código**: Implementación de mejores prácticas y estándares de la industria
+- **Aprendizaje continuo**: Actualización constante con las últimas tecnologías
+- **Colaboración efectiva**: Trabajo en equipo y comunicación clara
+- **Orientación a resultados**: Soluciones que agregan valor al negocio
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### **Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend & Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### **Database & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools & Development**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliotTtg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliotTtg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliotTtg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Objetivos Actuales
+
+- 🔭 **Trabajando en**: Proyectos de desarrollo web full stack
+- 🌱 **Aprendiendo**: Tecnologías cloud y arquitecturas modernas
+- 👯 **Buscando colaborar**: En proyectos open source y startups
+- 💬 **Pregúntame sobre**: JavaScript, Python, desarrollo web
+- ⚡ **Dato curioso**: Me apasiona resolver problemas complejos con código elegante
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristophertaguada03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliotTtg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+---
+
+## 💡 Filosofía de Desarrollo
+
+> *"El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software leyendo un libro. Se convierte en uno trabajando duro y practicando."* - Robert C. Martin
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+```
