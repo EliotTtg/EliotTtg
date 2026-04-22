@@ -57,7 +57,7 @@ Soy un **desarrollador full stack** apasionado por crear soluciones tecnológica
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FE5E41?style=for-the-badge&logo=n8n&logoColor=white)
-
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 </div>
 
 ---
