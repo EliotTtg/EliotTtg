@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Eliot+Taguada;Desarrollador+Full+Stack;Especialista+en+Tecnolog%C3%ADas+Web;Innovaci%C3%B3n+%7C+Calidad+%7C+Eficiencia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Eliot+Ticlla+Taguada;Desarrollador+Full+Stack;Especialista+en+Tecnolog%C3%ADas+Web;Innovaci%C3%B3n+%7C+Calidad+%7C+Eficiencia" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Desarrollador Full Stack | Perú 🇵🇪</h3>
